@@ -21,7 +21,6 @@ public class realsort {
         System.out.println("\nMedian: " + median);
     }
 
-    // Simple bubble sort to match “implement sort()” requirement
     private static void sort(int[] arr) {
         int n = arr.length;
         boolean swapped;
